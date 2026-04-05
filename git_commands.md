@@ -11,7 +11,7 @@
 ```
 git config --global user.name "NIKHILA"
 ```
-
+-**screenshot:C:\Users\Admin\OneDrive\Pictures\S1**
 ---
 
 ### `git config --global user.email`
@@ -21,7 +21,7 @@ git config --global user.name "NIKHILA"
 ```bash
 git config --global user.email "n220017@example.com"
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S2**
 ---
 
 ### `git config --list`
@@ -31,6 +31,7 @@ git config --global user.email "n220017@example.com"
 ```bash
 git config --list
 ```
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S3**
 
 ---
 
@@ -41,6 +42,7 @@ git config --list
 ```bash
 git config --global --unset user.name
 ```
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S4**
 
 ---
 
