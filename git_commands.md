@@ -5,7 +5,7 @@
 ## 1. Git Configuration Commands
 
 ### `git config --global user.name`
-- **Purpose:** Sets your name globally for all Git commits.
+-**Purpose:** Sets your name globally for all Git commits.
 - **Syntax:** `git config --global user.name "Your Name"`
 - **Example:**
 ```
@@ -19,7 +19,7 @@ git config --global user.name "NIKHILA"
 - **Syntax:** `git config --global user.email "you@example.com"`
 - **Example:**
 ```bash
-git config --global user.email "ravi@example.com"
+git config --global user.email "n220017@example.com"
 ```
 
 ---
