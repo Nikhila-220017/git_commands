@@ -56,7 +56,7 @@ git config --global --unset user.name
 mkdir my-project && cd my-project
 git init
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S5**
 ---
 
 ### `git clone`
@@ -66,7 +66,7 @@ git init
 ```bash
 git clone https://github.com/username/repo.git
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S6**
 ---
 
 ### `git clone --branch`
@@ -76,7 +76,7 @@ git clone https://github.com/username/repo.git
 ```bash
 git clone --branch develop https://github.com/username/repo.git
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S7**
 ---
 
 ### `git clone --depth`
@@ -86,7 +86,7 @@ git clone --branch develop https://github.com/username/repo.git
 ```bash
 git clone --depth 1 https://github.com/username/repo.git
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S8**
 ---
 
 ## 3. Repository Status & Inspection
@@ -98,7 +98,7 @@ git clone --depth 1 https://github.com/username/repo.git
 ```bash
 git status
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S9**
 ---
 
 ### `git log`
@@ -108,7 +108,7 @@ git status
 ```bash
 git log
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S10**
 ---
 
 ### `git log --oneline`
@@ -118,7 +118,7 @@ git log
 ```bash
 git log --oneline
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S11**
 ---
 
 ### `git log --graph`
@@ -128,7 +128,7 @@ git log --oneline
 ```bash
 git log --graph --oneline --all
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S12**
 ---
 
 ### `git show`
@@ -138,7 +138,7 @@ git log --graph --oneline --all
 ```bash
 git show a1b2c3d
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S13**
 ---
 
 ### `git diff`
@@ -148,7 +148,7 @@ git show a1b2c3d
 ```bash
 git diff
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S14**
 ---
 
 ### `git diff --staged`
@@ -158,7 +158,7 @@ git diff
 ```bash
 git diff --staged
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S15**
 ---
 
 ### `git blame`
@@ -168,7 +168,7 @@ git diff --staged
 ```bash
 git blame index.html
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S16**
 ---
 
 ### `git reflog`
@@ -178,7 +178,7 @@ git blame index.html
 ```bash
 git reflog
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S17**
 ---
 
 ### `git shortlog`
@@ -188,7 +188,7 @@ git reflog
 ```bash
 git shortlog -sn
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S18**
 ---
 
 ## 4. File Tracking Commands
@@ -200,7 +200,7 @@ git shortlog -sn
 ```bash
 git add index.html
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S19**
 ---
 
 ### `git add .`
@@ -210,7 +210,7 @@ git add index.html
 ```bash
 git add .
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S20**
 ---
 
 ### `git add -p`
@@ -220,7 +220,7 @@ git add .
 ```bash
 git add -p
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S21**
 ---
 
 ### `git restore`
@@ -230,7 +230,7 @@ git add -p
 ```bash
 git restore index.html
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S22**
 ---
 
 ### `git restore --staged`
@@ -240,7 +240,7 @@ git restore index.html
 ```bash
 git restore --staged index.html
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S23**
 ---
 
 ### `git rm`
@@ -250,7 +250,7 @@ git restore --staged index.html
 ```bash
 git rm old-file.txt
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S24**
 ---
 
 ### `git mv`
@@ -260,7 +260,7 @@ git rm old-file.txt
 ```bash
 git mv old-name.txt new-name.txt
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S25**
 ---
 
 ## 5. Commit Commands
@@ -272,7 +272,7 @@ git mv old-name.txt new-name.txt
 ```bash
 git commit
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S26**
 ---
 
 ### `git commit -m`
@@ -282,7 +282,7 @@ git commit
 ```bash
 git commit -m "Added homepage layout"
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S27**
 ---
 
 ### `git commit --amend`
@@ -292,7 +292,7 @@ git commit -m "Added homepage layout"
 ```bash
 git commit --amend -m "Fixed typo in commit message"
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S28**
 ---
 
 ### `git commit --no-edit`
@@ -303,7 +303,7 @@ git commit --amend -m "Fixed typo in commit message"
 git add forgotten-file.txt
 git commit --amend --no-edit
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S30**
 ---
 
 ## 6. Branch Management Commands
@@ -315,7 +315,7 @@ git commit --amend --no-edit
 ```bash
 git branch
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S31**
 ---
 
 ### `git branch -a`
@@ -325,7 +325,7 @@ git branch
 ```bash
 git branch -a
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S32**
 ---
 
 ### `git branch -d`
@@ -335,7 +335,7 @@ git branch -a
 ```bash
 git branch -d feature/login
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S33**
 ---
 
 ### `git branch -D`
@@ -345,7 +345,7 @@ git branch -d feature/login
 ```bash
 git branch -D feature/login
 ```
-
+**screenshot:C:\Users\Admin\OneDrive\Pictures\S34**
 ---
 
 ### `git checkout`
@@ -355,7 +355,6 @@ git branch -D feature/login
 ```bash
 git checkout main
 ```
-
 ---
 
 ### `git checkout -b`
@@ -365,7 +364,6 @@ git checkout main
 ```bash
 git checkout -b feature/signup
 ```
-
 ---
 
 ### `git switch`
@@ -375,7 +373,6 @@ git checkout -b feature/signup
 ```bash
 git switch develop
 ```
-
 ---
 
 ### `git switch -c`
@@ -385,7 +382,6 @@ git switch develop
 ```bash
 git switch -c feature/dashboard
 ```
-
 ---
 
 ## 7. Merge & Integration Commands
